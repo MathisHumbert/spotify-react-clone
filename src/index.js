@@ -7,6 +7,7 @@ import App from './App';
 // connect to the api
 // refaire a propos de indeed
 // tweet et indeed udemy
+// udemy certification sur indeed
 
 ReactDOM.render(
   <React.StrictMode>
