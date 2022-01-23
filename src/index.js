@@ -4,6 +4,8 @@ import './index.css';
 import App from './App';
 
 // spotify
+// connect to the api
+// refaire a propos de indeed
 
 ReactDOM.render(
   <React.StrictMode>
