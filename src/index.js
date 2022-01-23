@@ -6,6 +6,7 @@ import App from './App';
 // spotify
 // connect to the api
 // refaire a propos de indeed
+// tweet et indeed udemy
 
 ReactDOM.render(
   <React.StrictMode>
