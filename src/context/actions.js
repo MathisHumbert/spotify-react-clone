@@ -1,2 +1,5 @@
 // LOGIN / LOGOUT USER
 export const SET_USER_TOKEN = 'SET_USER_TOKEN';
+
+// HOME DATA
+export const FETCH_HOME_DATA = 'FETCH_HOME_DATA';
